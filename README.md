@@ -1,5 +1,7 @@
 # IdulAdha
 Saya sedang mengikuti kontes #1 Bekasidev dengan tema "Idul Adha". Projek yang Saya buat ini,Saya beri nama al-Adha Mubarak. Projek ini adalah hasil dari slicing design mas <a href="https://dribbble.com/dhefryrezha">Dhefry Andirezha</a>.
+<br> <br>
+I am currently following the #1 Bekasidev contest with the theme “Idul Adha”. The project I did this, I named it al-Adha Mubarak. This project is the result of slicing design mas <a href="https://dribbble.com/dhefryrezha"> Dhefry Andirezha </a>. 
 
 # Dribbble Shots
 <a href="https://dribbble.com/shots/13938022-Eid-al-Adha-Mubarak-Website-Header">https://dribbble.com/shots/13938022-Eid-al-Adha-Mubarak-Website-Header</a>
@@ -8,6 +10,8 @@ Saya sedang mengikuti kontes #1 Bekasidev dengan tema "Idul Adha". Projek yang S
  <a href="https://wafarifki.github.io/IdulAdha/">https://wafarifki.github.io/IdulAdha/</a>
 
 Mari dukung saya dengan menyukai, membagikan maupun mengometari postingan ini, jika kamu ingin menjadi peserta pada kontes selanjutnya, marilah bergabung bersama saya melalui link berikut ini. Terima Kasih.
+<br> <br>
+Let's support me by liking, sharing or commenting on this post, if you want to be a participant in the next contest, come join me via the following link. Thank you. 
 
 Facebook: <a href="https://facebook.com/bekasidev">https://facebook.com/bekasidev</a>
 FB group: <a href="https://facebook.com/groups/bekasidev">https://facebook.com/groups/bekasidev</a>
